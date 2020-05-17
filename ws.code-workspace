@@ -1,0 +1,10 @@
+{
+    "folders": [
+		{
+			"path": "..\\go"
+		}
+	],
+    "settings": {
+        "debug.internalConsoleOptions": "neverOpen"
+    }
+}
