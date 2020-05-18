@@ -12,9 +12,9 @@ import requests
 
 from twilio.rest import Client
 
-account_sid = "AC5825e12c1429c24d528f5579be9bc9de"
-auth_token = "27c68fe2570463de93102a1f7817fcbc"
-my_twilio_number = "+12067361237"
+account_sid = "YOUR SID"
+auth_token = "YOUR AUTH TOKEN"
+my_twilio_number = "YOUR TWILIO NUMBER"
 receiver_number = "+918888076752"
 
 
